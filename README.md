@@ -46,6 +46,7 @@ Actualizarea scorurilor și afișarea mesajelor de final.
 Proiectul are o structură de fișiere simplă și directă:
 
 rock-paper-scissors/
+
 ├── index.html        # Structura principală a paginii web
 
 ├── style.css         # Fișierul de stiluri CSS
