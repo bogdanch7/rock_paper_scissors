@@ -47,10 +47,15 @@ Proiectul are o structură de fișiere simplă și directă:
 
 rock-paper-scissors/
 ├── index.html        # Structura principală a paginii web
+
 ├── style.css         # Fișierul de stiluri CSS
+
 ├── script.js         # Logica jocului în JavaScript
+
 ├── rock.png          # Imagine pentru alegerea "Piatră"
+
 ├── paper.png         # Imagine pentru alegerea "Hârtie"
+
 └── scissors.png      # Imagine pentru alegerea "Foarfecă"
 
 ---
