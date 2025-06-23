@@ -70,6 +70,25 @@ Acesta este un proiect web front-end, care rulează direct în browser. Nu neces
 
 ---
 
+## Capturi
+
+Ecranul principal al jocului:
+![ecran_principal](https://github.com/user-attachments/assets/10f737c4-9cfb-4c9e-8460-b85a7aa2321d)
+
+Alegere "Piatră":
+![alegere_piatra](https://github.com/user-attachments/assets/0bfd1fd3-14c4-4e5f-978e-5cde7dbe5abb)
+
+Alegere "Hârtie":
+![alegere_hartie](https://github.com/user-attachments/assets/6bd69b3e-00b0-43c9-97b7-ed04c3248f4d)
+
+Alegere "Foarfecă":
+![alegere_foarfeca](https://github.com/user-attachments/assets/7197054d-43f6-427c-bbe5-757ad5ebf7b6)
+
+Joc finalizat (exemplu):
+![joc_finalizat](https://github.com/user-attachments/assets/c8fce3ec-b22d-4490-8cff-39c0a575e673)
+
+---
+
 ## Realizat de
 
 Proiect realizat de [bogdanch7](https://github.com/bogdanch7)
