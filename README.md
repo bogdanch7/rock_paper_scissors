@@ -37,7 +37,7 @@ Implementarea regulilor jocului pentru a determina câștigătorul fiecărei run
 
 Actualizarea scorurilor și afișarea mesajelor de final.
 
-Imagini (rock.png, paper.png, scissors.png): Resurse grafice utilizate pentru a reprezenta alegerile Piatră, Hârtie și Foarfecă.
+- Imagini (rock.png, paper.png, scissors.png): Resurse grafice utilizate pentru a reprezenta alegerile Piatră, Hârtie și Foarfecă.
 
 ---
 
