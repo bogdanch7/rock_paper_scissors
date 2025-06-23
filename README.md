@@ -29,15 +29,15 @@ Acest proiect este o aplicație web pur front-end, bazată pe tehnologiile web s
 - CSS (style.css): Definește stilul vizual al jocului, cum ar fi fonturile, alinierea textului, dimensiunile și poziționarea imaginilor și a altor elemente.
 - JavaScript (script.js): Conține logica principală a jocului:
 
--- Gestionarea evenimentelor de click pentru alegerile jucătorului.
+Gestionarea evenimentelor de click pentru alegerile jucătorului.
 
--- Generarea alegerii aleatorii a calculatorului.
+Generarea alegerii aleatorii a calculatorului.
 
--- Implementarea regulilor jocului pentru a determina câștigătorul fiecărei runde.
+Implementarea regulilor jocului pentru a determina câștigătorul fiecărei runde.
 
--- Actualizarea scorurilor și afișarea mesajelor de final.
+Actualizarea scorurilor și afișarea mesajelor de final.
 
--- Imagini (rock.png, paper.png, scissors.png): Resurse grafice utilizate pentru a reprezenta alegerile Piatră, Hârtie și Foarfecă.
+Imagini (rock.png, paper.png, scissors.png): Resurse grafice utilizate pentru a reprezenta alegerile Piatră, Hârtie și Foarfecă.
 
 ---
 
